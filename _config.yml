@@ -1,0 +1,7 @@
+destination: ./_site
+port:        4000
+highlighter:  'pygments'
+permalink:  /:year/:month/:day/:title.html
+safe: true
+excerpt_separator: <!--more-->
+markdown: redcarpet
