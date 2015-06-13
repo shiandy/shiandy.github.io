@@ -59,10 +59,7 @@ inequalities above to equalities. How does independence relate?
 
 Recall from before that, for a cutoff of <span>\\(\alpha/n\\)</span>, the
 probability of at least one incorrect rejection is bounded by
-
-<div>
-\[1 - (1 - \alpha/n)^n\]
-</div>
+<span>\\(1 - (1 - \alpha/n)^n\\)</span>.
 
 If we take the limit as n gets large, <span>\\((1 - \alpha/n)^n\\)</span>
 approaches <span>\\(e^{-\alpha}\\)</span> (recall the compound interest formula).
