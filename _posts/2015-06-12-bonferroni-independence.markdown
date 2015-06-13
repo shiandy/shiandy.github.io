@@ -59,6 +59,7 @@ inequalities above to equalities. How does independence relate?
 
 Recall from before that, for a cutoff of <span>\\(\alpha/n\\)</span>, the
 probability of at least one incorrect rejection is bounded by
+
 <div>
 \[1 - (1 - \alpha/n)^n\]
 </div>
