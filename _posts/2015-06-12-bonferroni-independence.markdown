@@ -13,7 +13,7 @@ correction and why it's best to use when there is independence. It wasn't
 immediately obvious why this is true. This is something that was often mentioned
 in stats classes but never fully explained. 
 
-## Bonferroni Correction Intro
+### Bonferroni Correction Intro
 
 The Bonferroni correction is a solution to the [*multiple hypothesis
 testing*](https://xkcd.com/882/) problem. In the XKCD comic, the characters are
@@ -32,7 +32,7 @@ original cutoff <span>\\(\alpha\\)</span> by dividing it by the number of tests
 k. 
 
 
-## Bonferroni Correction Proof
+### Bonferroni Correction Proof
 Let's say we have n hypotheses we want to test, and in k of them, the null
 hypothesis is true. Let K denote the set of these hypotheses where the null is
 true. Let's set the significance cutoff for each test at
@@ -51,7 +51,7 @@ holds if the hypothesis tests are disjoint.
 
 
 
-## Independent Tests
+### Independent Tests
 
 However, the tests being disjoint does not imply that they're independent. If
 the outcome of the tests were disjoint, then its possible we could turn all the
@@ -73,7 +73,7 @@ so when tests are independent, the probability of at least one rejection is
 close to <span>\\(\alpha\\)</span>.
 
 
-## Dependent Tests
+### Dependent Tests
 
 
 The problem is, most sets of hypotheses are positively dependent: you're more
