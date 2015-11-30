@@ -1,4 +1,5 @@
 # shiandy.github.io
-personal website
+Personal Website: http://shiandy.github.io/
 
-http://shiandy.github.io/
+Theme:
+(jekyll-minimal-theme)[https://github.com/drjekyllthemes/jekyll-minimal-theme]
