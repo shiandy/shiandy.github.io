@@ -1,7 +1,36 @@
+###########
+# site.title, site.url, site.author.name
+
+title:   'Andy Shi Homepage'
+author:
+  name:  'Andy Shi'
+
+## note: 
+#  use site.path in your templates to make it work for both protocols e.g. http and https
+#  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
+path: '/'
+url:  'http://shiandy.github.io/'
+
+
+########
+# more settings
+
+sass:
+  sass_dir: css
+  style:    expanded
+
+permalink: /:title.html
+
+exclude:
+- README.md
+
+
+lsi: false
+
 destination: ./_site
 port:        4000
 highlighter:  'pygments'
-permalink:  /:year/:month/:day/:title.html
+permalink:  /:title.html
 safe: true
 excerpt_separator: <!--more-->
 markdown: redcarpet
