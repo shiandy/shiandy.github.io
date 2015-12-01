@@ -39,7 +39,7 @@ A.B. Degree Candidate in Statistics. GPA: 3.84/4.0
   [[progress report]({{ site.path }}/assets/power-calc-report.pdf) |
   [code](https://bitbucket.org/andys314/power-calculations)]
 
-### Class Final Projects
+### Final Projects for Classes I Took
 
 + **A Graph Parallel Implementation of Hidden Markov Models**, with Kevin Schmid
   and Ding Zhou. *For CS 205: Computing Foundations for Computational Science
