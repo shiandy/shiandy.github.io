@@ -1,7 +1,7 @@
 ###########
 # site.title, site.url, site.author.name
 
-title:   'Andy Shi Homepage'
+title:   'Andy Shi'
 author:
   name:  'Andy Shi'
 
@@ -30,7 +30,6 @@ lsi: false
 destination: ./_site
 port:        4000
 highlighter:  'pygments'
-permalink:  /:title.html
 safe: true
 excerpt_separator: <!--more-->
 markdown: redcarpet
