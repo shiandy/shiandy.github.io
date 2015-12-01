@@ -39,7 +39,7 @@ A.B. Degree Candidate in Statistics. GPA: 3.84/4.0
   [[progress report]({{ site.path }}/assets/power-calc-report.pdf) |
   [code](https://bitbucket.org/andys314/power-calculations)]
 
-### Class Projects
+### Class Final Projects
 
 + **A Graph Parallel Implementation of Hidden Markov Models**, with Kevin Schmid
   and Ding Zhou. *For CS 205: Computing Foundations for Computational Science
@@ -104,6 +104,27 @@ A.B. Degree Candidate in Statistics. GPA: 3.84/4.0
   </small>
   [[report]({{ site.path }}/assets/parareal-paper.pdf) |
   [code](https://github.com/am205-project/parareal)]
+
++ **Pacman Agent**, with Kewei Li and Ding Zhou. *For CS 181: Machine Learning
+  (Spring 2014)*. <br>
+  <small>
+  Implementation of an intelligent Pacman agent. We used both reinforcement
+  learning and heuristics to train the agent. We also needed to classify
+  capsules as real/placebo and ghosts by their "juiciness," using noisy
+  observations.
+  </small>
+  [[report] ({{ site.path }}/assets/cs181_final_project_writeup.pdf) | 
+  [code](https://github.com/KDA9000/cs181_final_project)]
+
++ **OCaml Matrix**, with Luis Perez, Ding Zhou, and Zihao Wang. *For CS 51:
+  Introduction to Computer Science II (Spring 2013)*. <br>
+  <small>
+  Implementation of a matrix module and the simplex algorithm, in OCaml.
+  </small> <br>
+  [[report]({{ site.path }}/assets/ocaml-matrix-report.pdf) | 
+  [draft spec]({{ site.path }}/assets/DraftSpec_Annotated.pdf) | 
+  [final spec]({{ site.path }}/assets/FinalSpec_Annotated.pdf) | 
+  [code](https://github.com/Fantastic-Four/ocaml-matrix)]
 
 
 ## Teaching
