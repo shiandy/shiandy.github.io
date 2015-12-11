@@ -3,13 +3,13 @@ layout: default
 title: Welcome
 ---
 
-I am a senior at Harvard College, where I am a dual degree (AB/SM) candidate
-for [statistics](http://stat.harvard.edu) and
-[CSE](http://www.seas.harvard.edu/programs/graduate/computational-science-and-engineering/master-of-science-in-cse).
+I am a senior at Harvard College, where I am a dual degree (AB/SM) candidate for
+[statistics](http://stat.harvard.edu) and [Computational Science and Engineering
+(CSE)](http://www.seas.harvard.edu/programs/graduate/computational-science-and-engineering/master-of-science-in-cse).
 I'm currently a research assistant in the [Huttenhower
-Lab](http://huttenhower.org/), where I build computational and
-statistical tools to analyze microbiome data. I'm broadly interested in
-developing statistical methods with applications in biology.
+Lab](http://huttenhower.org/), where I build computational and statistical tools
+to analyze microbiome data. I'm broadly interested in developing statistical
+methods with applications in biology.
 
 ## Education
 
@@ -35,7 +35,7 @@ A.B. Degree Candidate in Statistics. GPA: 3.84/4.0
   [code](https://bitbucket.org/biobakery/kneaddata)]
 
 + **Shi A**, Schwager E, Huttenhower C. Developing Power Calculations for
-  Microbiome Compositional Data. *In progress*. 
+  Microbiome Compositional Data. *In progress*.
   [[progress report]({{ site.path }}/assets/power-calc-report.pdf) |
   [code](https://bitbucket.org/andys314/power-calculations)]
 
@@ -55,7 +55,7 @@ A.B. Degree Candidate in Statistics. GPA: 3.84/4.0
   EM algorithm along the state axis would greatly improve scalability. Graph
   based platforms are particularly suited to EM algorithms, and our project uses
   GraphLab, a platform created by Dato for implementing graph based
-  parallelizing schemes. 
+  parallelizing schemes.
   </small>
   [[report](https://github.com/cs205-project-group/hmm/blob/master/paper/report.pdf) | [code](https://github.com/cs205-project-group/hmm)]
 
@@ -84,7 +84,7 @@ A.B. Degree Candidate in Statistics. GPA: 3.84/4.0
 
 + **Explorations to Optimize the Parareal Algorithm to Solve ODEs in Given
   Applications**, with Wesley Chen and Brandon Sim. *For AM 205: Advanced
-  Scientific Computing: Numerical Methods (Fall 2014)*. <br> 
+  Scientific Computing: Numerical Methods (Fall 2014)*. <br>
   <small>
   The relationship between education and income has long been a topic of
   We look to achieve strong scaling in parallelizing numerical ODE methods. We
@@ -100,7 +100,7 @@ A.B. Degree Candidate in Statistics. GPA: 3.84/4.0
   as next steps including ports of to C++ using BLAS. Our code is written in
   Python using mpi4py. We compare tests from various data sources from basic
   exponential ODEs to larger grids of ODEs to solve for in applications like
-  sound wave propagation. 
+  sound wave propagation.
   </small>
   [[report]({{ site.path }}/assets/parareal-paper.pdf) |
   [code](https://github.com/am205-project/parareal)]
@@ -113,7 +113,7 @@ A.B. Degree Candidate in Statistics. GPA: 3.84/4.0
   capsules as real/placebo and ghosts by their "juiciness," using noisy
   observations.
   </small>
-  [[report] ({{ site.path }}/assets/cs181_final_project_writeup.pdf) | 
+  [[report] ({{ site.path }}/assets/cs181_final_project_writeup.pdf) |
   [code](https://github.com/KDA9000/cs181_final_project)]
 
 + **OCaml Matrix**, with Luis Perez, Ding Zhou, and Zihao Wang. *For CS 51:
@@ -121,9 +121,9 @@ A.B. Degree Candidate in Statistics. GPA: 3.84/4.0
   <small>
   Implementation of a matrix module and the simplex algorithm, in OCaml.
   </small> <br>
-  [[report]({{ site.path }}/assets/ocaml-matrix-report.pdf) | 
-  [draft spec]({{ site.path }}/assets/DraftSpec_Annotated.pdf) | 
-  [final spec]({{ site.path }}/assets/FinalSpec_Annotated.pdf) | 
+  [[report]({{ site.path }}/assets/ocaml-matrix-report.pdf) |
+  [draft spec]({{ site.path }}/assets/DraftSpec_Annotated.pdf) |
+  [final spec]({{ site.path }}/assets/FinalSpec_Annotated.pdf) |
   [code](https://github.com/Fantastic-Four/ocaml-matrix)]
 
 
