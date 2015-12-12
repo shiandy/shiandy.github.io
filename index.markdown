@@ -26,7 +26,9 @@ A.B. Degree Candidate in Statistics. GPA: 3.84/4.0
 
 + Yasuda K, Gallini CA, **Shi A**, DuLong C, Schwager R, Hsu T, Abu-Ali G,
   Mclver L, Garrett WS, Huttenhower C, Morgan XC. Early life fluoride exposure
-  affect the oral and gut microbiome in mice. *In preparation*.
+  affect the oral and gut microbiome in mice. *In preparation*.<br>
+  R package for visualizing microbiome compositional data
+  [[code](https://bitbucket.org/biobakery/mpuri)]
 
 + **Shi A**, Kostic AD, Schwager R, McIver L, Morgan XC, Huttenhower C.
   KneadData: Automated Quality Control and Filtering for High Throughput
