@@ -3,7 +3,10 @@ title: Citation Management
 layout: post
 ---
 
-<span class="octicon octicon-mark-github"></span>
+In this post, I'll show how to automate downloading citations from Citeulike
+into BibTeX files.
+
+<!--more-->
 
 I've started writing my senior thesis, so I've started looking for a way to
 manage all my sources. My thesis is being written in LaTeX, so using BibTeX was
@@ -50,13 +53,14 @@ optional but can be used to change the output filename and what tag to use.
                             Bibtex output file name. Default: export.bib
       -t TAG, --tag TAG     Which tag to use. By default, no tags are used.
 
-You'll need to set the USERNAME and PASSWORD variables before continuing.
-Using this script you can automate fetching those bibliography files and
-make sure your citations are up to date. Enjoy!
+You'll need to set the USERNAME and PASSWORD variables to your own Citeulike
+username and password, respectively, before continuing. Using this script you
+can automate fetching those bibliography files and make sure your citations are
+up to date. Enjoy!
 
-Caveat: Citeulike's security certificate expired on June 8, 2015 and hasn't been
-renewed since, so I am using HTTP, not HTTPS, to log in. It's probably best if
-you use a different password for Citeulike so that people can't steal your
-Facebook/email/bank passwords.
+**Caveat**: Citeulike's security certificate expired on June 8, 2015 and hasn't
+been renewed since, so I am using non-secure HTTP, not HTTPS, to log in. It's
+probably best if you use a different password for Citeulike so that people can't
+steal your Facebook/email/bank passwords.
 
 <script src="https://gist.github.com/shiandy/f7d53f7061748e599e10.js"></script>
