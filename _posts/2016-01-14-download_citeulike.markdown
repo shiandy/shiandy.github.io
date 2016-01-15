@@ -64,3 +64,7 @@ probably best if you use a different password for Citeulike so that people can't
 steal your Facebook/email/bank passwords.
 
 <script src="https://gist.github.com/shiandy/f7d53f7061748e599e10.js"></script>
+
+<noscript>Please enable Javascript to see a preview of this code, or <a
+href="https://gist.github.com/shiandy/f7d53f7061748e599e10">view it on
+Github</a>.</noscript>
