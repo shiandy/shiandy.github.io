@@ -144,4 +144,5 @@ A.B. Degree Candidate in Statistics. GPA: 3.84/4.0
 ## Teaching
 
 + Teaching Fellow for Stat 102: Introduction to Statistics for Life Sciences
+  (Spring 2016)
 + Teaching Fellow for [CS 109](http://cs109.org): Data Science (Fall 2015)
