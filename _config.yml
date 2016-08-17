@@ -29,7 +29,7 @@ lsi: false
 
 destination: ./_site
 port:        4000
-highlighter:  'pygments'
+highlighter:  rouge
 safe: true
 excerpt_separator: <!--more-->
-markdown: redcarpet
+markdown: kramdown
